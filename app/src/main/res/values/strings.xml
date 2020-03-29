@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="aboutus">SOBRE NOSOTROS</string>
+    <string name="aboutusdetail">SOOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES FAST FOOD!!</string>
+    <string name="title_activity_sandwiches">Sandwiches</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="italiano">ITALIANO</string>
+    <string name="chacarero">CHACARERO</string>
+    <string name="barros_luco">BARROS LUCO</string>
+    <string name="barros_jarpa">BARROS JARPA</string>
+    <string name="vegetariano">VEGETARIANO</string>
+    <string name="sandwiches_italiano">SANDWICHES ITALIANO</string>
+    <string name="sandwiches_chacarero">SANDWICHES CHACARERO</string>
+    <string name="sanwiches_barros_luco">SANDWICHES BARROS LUCO</string>
+    <string name="sadwiches_barros_jarpa">SANDWICHES BARROS JARPA</string>
+    <string name="sadwiches_vegetariano">SANDWICHES VEGETARIANO</string>
+    <string name="sadwiches_italiano_detail">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA, 2 PALTAS GRANDECITAS, TOMATE, MAYONESA QUE REPOSAN SOBRE DOS PANES FRICA</string>
+    <string name="sadwiches_chacarero_detail">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA, POROTOS VERDES, TOMATE GRANDE, SAL, PIMIENTA  Y MANTEQUILLA QUE REPOSAN SOBRE DOS PANES FRICA</string>
+    <string name="sadwiches_barros_luco_detail">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA, 4 REBANADAS DE QUESO CHANCO O CAMPO Y MANTEQUILLA QUE REPOSAN SOBRE DOS PANES FRICA</string>
+    <string name="sadwiches_barros_jarpa_detail">CONTIENE 2 REBANADAS DE QUESO MANTECOSO, 2 REBANAS DE JAMON CERCO CALIENTE QUE REPOSAN SOBRE DOS PANES AMASADOS O MARRAQUETA</string>
+    <string name="sadwiches_vegetariano_detail">CONTIENE 2 HOJAS DE LECHUGA, 2 REBANADAS DE TOMATE, 2 REBANADAS DE QUESO MOZARELLA FESCO O QUESILLO, 1 PALTA PEQUEÑA POROTOS VERDES COCIDOS Y PICADOS, SAL Y PIMIENTA QUE REPOSAN SOBRE DOS FLATOUT FOLDIT PROTEIN</string>
+    <string name="sadwiches_italiano_price">PRECIO: $3.500</string>
+    <string name="sadwiches_chacarero_price">PRECIO: $3.200</string>
+    <string name="sadwiches_barros_luco_price">PRECIO: $3.900</string>
+    <string name="sadwiches_barros_jarpa_price">PRECIO: $1.900</string>
+    <string name="sadwiches_vegetariano_price">PRECIO: $3.800</string>
+</resources>
